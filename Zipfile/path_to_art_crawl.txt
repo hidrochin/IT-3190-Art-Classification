@@ -1,0 +1,15 @@
+The owner of art crawler repo:
+https://github.com/asahi417/wikiart-image-dataset
+
+You can download datasets of 5 classes through this link below:
+
+rococo: https://github.com/asahi417/wikiart-crawler/releases/download/v0.0.0/rococo.zip
+
+realism: https://github.com/asahi417/wikiart-crawler/releases/download/v0.0.0/realism.zip
+
+surrealism: https://github.com/asahi417/wikiart-crawler/releases/download/v0.0.0/surrealism.zip
+baroque:
+
+neoclassicism: https://github.com/asahi417/wikiart-crawler/releases/download/v0.0.0/neoclassicism.zip
+
+baroque: https://github.com/asahi417/wikiart-crawler/releases/download/v0.0.0/baroque.zip
